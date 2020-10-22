@@ -21,7 +21,7 @@
 - **jupyter-lab**
 - - **conda deactivate;cd $HOME/enviroments;source machine_l_env/bin/activate;jupyter-lab**
 - pip list
-- cd $HOME/step_machine_learning
+- **cd $HOME/step_machine_learning**
 - pip freeze > requirements.txt
 - **conda deactivate;cd $HOME/enviroments;source machine_l_env/bin/activate**
 - **git add .;git commit -m "replace readme";git push origin**
