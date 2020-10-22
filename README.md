@@ -16,6 +16,10 @@
 - python
 - exit()
 - $HOME/enviroments/machine_l_env/bin/python3.7 -m pip install --upgrade pip
+- pip install sympy
+- pip install jupyterlab
+- **jupyter-lab**
+- - **conda deactivate;cd $HOME/enviroments;source machine_l_env/bin/activate;jupyter-lab**
 - pip list
 - cd $HOME/step_machine_learning
 - pip freeze > requirements.txt
